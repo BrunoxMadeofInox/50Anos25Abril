@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-12-27T16:02:29.305Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="uEHqEQlW7G9HO9Qi6OMB" version="22.1.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-05T12:42:13.285Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="LlhWtezScKGitZ3cZrc5" version="22.1.16" type="github">
   <diagram name="Página-1" id="FpVAuUuVN9Kj6SFH5sOo">
-    <mxGraphModel dx="1173" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="588" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="oXYi6r97ezYkzq5v8CwS-25" value="Conta User" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oXYi6r97ezYkzq5v8CwS-26" value="Username" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="oXYi6r97ezYkzq5v8CwS-26" value="Ano" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="140" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oXYi6r97ezYkzq5v8CwS-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oXYi6r97ezYkzq5v8CwS-25" target="oXYi6r97ezYkzq5v8CwS-26" edge="1">
@@ -82,7 +82,7 @@
         <mxCell id="oXYi6r97ezYkzq5v8CwS-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oXYi6r97ezYkzq5v8CwS-47" target="oXYi6r97ezYkzq5v8CwS-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oXYi6r97ezYkzq5v8CwS-52" value="Trabalhos Livres" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="oXYi6r97ezYkzq5v8CwS-52" value="Diversos" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="545" y="410" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oXYi6r97ezYkzq5v8CwS-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oXYi6r97ezYkzq5v8CwS-47" target="oXYi6r97ezYkzq5v8CwS-52" edge="1">
@@ -112,25 +112,22 @@
         <mxCell id="oXYi6r97ezYkzq5v8CwS-78" value="Trabalhos" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="140" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oXYi6r97ezYkzq5v8CwS-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oXYi6r97ezYkzq5v8CwS-25" target="oXYi6r97ezYkzq5v8CwS-78" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="oXYi6r97ezYkzq5v8CwS-80" value="Proprietário" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="255" y="510" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oXYi6r97ezYkzq5v8CwS-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oXYi6r97ezYkzq5v8CwS-39" target="oXYi6r97ezYkzq5v8CwS-80" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xR_zEV4LNTl1jvH4UT5Y-1" value="&lt;h1&gt;Admin&lt;/h1&gt;&lt;div&gt;Eliminar Trabalhos&lt;/div&gt;&lt;div&gt;Eliminar Utilizadores&lt;/div&gt;&lt;div&gt;Criar Utilizadores&amp;nbsp;&lt;/div&gt;&lt;div&gt;Aceitar ou Recusar Pedidos de Alteração de dados&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="600" y="660" width="190" height="120" as="geometry" />
+        <mxCell id="xR_zEV4LNTl1jvH4UT5Y-1" value="&lt;h1&gt;Admin&lt;/h1&gt;&lt;div&gt;Eliminar Trabalhos&lt;/div&gt;&lt;div&gt;Eliminar Utilizadores&lt;/div&gt;&lt;div&gt;Criar Utilizadores&amp;nbsp;&lt;/div&gt;&lt;div&gt;Aceitar ou Recusar Pedidos de Alteração de dados&lt;/div&gt;&lt;div&gt;Editar/Eliminar/Adicionar Categorias&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="600" y="660" width="190" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="xR_zEV4LNTl1jvH4UT5Y-2" value="&lt;h1&gt;Trabalhos&lt;/h1&gt;&lt;div&gt;Só pertence a um utilizador&lt;/div&gt;&lt;div&gt;Descrição é um campo Opcional&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="xR_zEV4LNTl1jvH4UT5Y-2" value="&lt;h1&gt;Trabalhos&lt;/h1&gt;&lt;div&gt;Só pertence a um utilizador&lt;/div&gt;&lt;div&gt;Descrição é um campo Opcional&lt;/div&gt;&lt;div&gt;Comentários&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="70" y="530" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="xR_zEV4LNTl1jvH4UT5Y-3" value="&lt;h1&gt;User&lt;/h1&gt;&lt;div&gt;Pode alterar alguns os dados: Password, Username, Email.&lt;/div&gt;&lt;div&gt;Para alterar Turma, Numero e Nome deverá fazer um pedido ao Admin&lt;/div&gt;&lt;div&gt;Pode ter vários Trabalhos&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="210" width="190" height="140" as="geometry" />
+        <mxCell id="xR_zEV4LNTl1jvH4UT5Y-3" value="&lt;h1&gt;User&lt;/h1&gt;&lt;div&gt;Pode alterar alguns os dados: Password, Email.&lt;/div&gt;&lt;div&gt;Para alterar Turma, Numero e Nome e Ano deverá fazer um pedido ao Admin&lt;/div&gt;&lt;div&gt;Pode ter vários Trabalhos ou nenhum&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="330" y="210" width="190" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="xR_zEV4LNTl1jvH4UT5Y-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="oXYi6r97ezYkzq5v8CwS-45" target="oXYi6r97ezYkzq5v8CwS-47">
+        <mxCell id="xR_zEV4LNTl1jvH4UT5Y-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="oXYi6r97ezYkzq5v8CwS-45" target="oXYi6r97ezYkzq5v8CwS-47" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="430" as="sourcePoint" />
             <mxPoint x="470" y="380" as="targetPoint" />
